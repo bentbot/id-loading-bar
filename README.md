@@ -1,6 +1,15 @@
 # id-loading-bar
 
 Simple loading bar on the top of your page to indicate page loading loading.
+Adds a collection of additional controls on to [pleerock]'s original module: ng2-loading-bar 
+
+Service workers you can call:
+*Start
+*Stop
+*Complete
+*Reset
+*Set (0-100)
+*Fill
 
 ## Installation
 
