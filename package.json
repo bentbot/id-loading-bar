@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "id-loading-bar@0.0.1",
+        "scope": null,
+        "escapedName": "id-loading-bar",
+        "name": "id-loading-bar",
+        "rawSpec": "0.0.1",
+        "spec": "0.0.1",
+        "type": "version"
+      },
+      "/Users/bentbot/identity-vagrant/src/asylum-idenetity"
+    ]
+  ],
+  "_nodeVersion": "6.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/ng2-loading-bar-static-0.0.6.tgz_1481976741517_0.9385834615677595"
+  },
+  "_npmUser": {
+    "name": "bentbot",
+    "email": "liam@hogan.re"
+  },
+  "_npmVersion": "3.10.3",
+  "_resolved": "https://registry.npmjs.org/ng2-loading-bar-static/-/ng2-loading-bar-static-0.0.6.tgz",
+  "_shasum": "05cf44039f16c8d2d2b8dd743b2ca6364dc1a1bb",
+  "_shrinkwrap": null,
+  "_spec": "ng2-loading-bar-static@0.0.6",
+  "_where": "/Users/bentbot/identity-vagrant/src/asylum-idenetity",
+  "author": {
+    "name": "BentBot",
+    "email": "bentbot@outlook.com"
+  },
+  "dependencies": {},
+  "description": "Extended loading bar for Angualr 2, based on ng2-loading-bar",
+  "devDependencies": {
+    "@angular/common": "^2.3.1",
+    "@angular/compiler": "^2.3.1",
+    "@angular/compiler-cli": "^2.3.1",
+    "@angular/core": "^2.3.1",
+    "@angular/forms": "^2.3.1",
+    "@angular/platform-browser": "^2.3.1",
+    "@angular/platform-browser-dynamic": "^2.3.1",
+    "bootstrap": "^3.3.6",
+    "chai": "^3.4.1",
+    "del": "^2.2.0",
+    "es6-shim": "^0.35.1",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-shell": "^0.5.1",
+    "gulp-tslint": "^5.0.0",
+    "gulpclass": "^0.1.1",
+    "mocha": "^2.5.3",
+    "reflect-metadata": "0.1.8",
+    "rxjs": "^5.0.0-rc.4",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0",
+    "systemjs": "0.19.29",
+    "tslint": "^3.10.2",
+    "tslint-stylish": "^2.1.0-beta",
+    "typescript": "^2.0.10",
+    "typings": "^1.0.4",
+    "zone.js": "^0.7.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "05cf44039f16c8d2d2b8dd743b2ca6364dc1a1bb",
+    "tarball": "https://registry.npmjs.org/ng2-loading-bar-static/-/ng2-loading-bar-static-0.0.6.tgz"
+  },
+  "homepage": "https://github.com/pleerock/ng2-loading-bar-static#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "bentbot",
+      "email": "bentbot@outlook.com"
+    }
+  ],
+  "name": "id-loading-bar",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "^2.0.0"
+  },
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentbot/id-loading-bar.git"
+  },
+  "scripts": {},
+  "tags": [
+    "loading-bar",
+    "angular2",
+    "typescript",
+    "angular2-loading-bar"
+  ],
+  "version": "0.0.1"
+}
